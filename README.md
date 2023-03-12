@@ -1,6 +1,6 @@
 # Flask-import
 1.install Termux
-2.You Need install Flask
+2.You Need install
 
 pkg install git
 
