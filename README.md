@@ -3,10 +3,15 @@
 2.You Need install Flask
 
 pkg install git
+
 \git allow pull or clone/
+
 pkg install python-pip
+
 \pip allow you install/
+
 pip install flask
+
 \flask web/
 
 git clone https://github.com/Eriopd/Flask-import/
