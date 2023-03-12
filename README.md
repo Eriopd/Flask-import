@@ -5,5 +5,7 @@
 pkg install python-pip
 and
 pip install flask
+and
+pkg install git
 
-3.You need install app Quickedit or Acode
+git clone https://github.com/Eriopd/Flask-import/
