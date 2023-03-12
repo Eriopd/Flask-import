@@ -16,3 +16,20 @@ pip install flask
 
 git clone https://github.com/Eriopd/Flask-import/
 
+A
+
+l
+
+l
+
+o
+
+w
+
+c
+
+o
+
+p
+
+y
