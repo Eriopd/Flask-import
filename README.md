@@ -7,6 +7,6 @@ and
 pip install flask
 and
 pkg install git
-''sh
+"bash
 git clone https://github.com/Eriopd/Flask-import/
-''
+"
