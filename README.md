@@ -14,7 +14,7 @@
 
 \flask web/
 
-```git clone https://github.com/Eriopd/Flask-import/```
-
-##build Flask credit
+```git clone
+https://github.com/Eriopd/Flask-import/```
+build Flask credit
 Thanaphat suporn/ eriopd
