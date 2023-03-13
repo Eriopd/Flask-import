@@ -6,11 +6,11 @@
 
 \git allow pull or clone/
 
-pkg install python-pip
+```pkg install python-pip```
 
 \pip allow you install/
 
-pip install flask
+```pip install flask```
 
 \flask web/
 
