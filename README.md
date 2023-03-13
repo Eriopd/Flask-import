@@ -20,4 +20,4 @@ https://github.com/Eriopd/Flask-import/`
 
 
 build Flask credit
-Thanaphat suporn/ eriopd
+Thanaphat suporn
