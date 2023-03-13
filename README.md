@@ -2,7 +2,7 @@
 1.install Termux
 2.You Need install
 
-pkg install git
+```pkg install git```
 
 \git allow pull or clone/
 
