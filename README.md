@@ -2,20 +2,21 @@
 1.install Termux
 2.You Need install
 
-```pkg install git```
+
+`pkg install git`
 
 \git allow pull or clone/
 
-```pkg install python-pip```
+`pkg install python-pip`
 
 \pip allow you install/
 
-```pip install flask```
+`pip install flask`
 
 \flask web/
 
-```git clone
-https://github.com/Eriopd/Flask-import```
+`git clone
+https://github.com/Eriopd/Flask-import/`
 
 
 build Flask credit
