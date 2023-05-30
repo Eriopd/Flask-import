@@ -19,6 +19,6 @@
 https://github.com/Eriopd/Flask-import/`
 
 
-build Flask credit
-Thanaphat suporn
-http://localhost:7700/html.html
+Flask-import 
+
+
